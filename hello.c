@@ -2,6 +2,6 @@
 
 int main(){
 	printf("Hello World!!!");
-	printf("My name is yeeun Jeon!:)");
+	printf("My name is yeeun !:)");
 	return 0;
 }
